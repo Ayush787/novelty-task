@@ -1,0 +1,28 @@
+.my-portfolio{
+    display: flex;
+}
+
+.mainHeading,.stock{
+    border-bottom: 1px dotted black;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.btn-sell{
+    height: 1em;
+    width: 2em;
+}

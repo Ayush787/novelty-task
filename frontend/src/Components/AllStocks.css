@@ -1,0 +1,22 @@
+
+.all-stocks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    border-bottom: 3px solid black;
+}
+
+select,input,button{
+    border-radius: 10px;
+    margin: 2px;
+    padding: 2px;
+    width: 20%;
+}
+
+label{
+    font-weight: bold;
+}
+
